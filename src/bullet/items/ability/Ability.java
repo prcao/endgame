@@ -18,7 +18,7 @@ public abstract class Ability extends Item {
 	@Override
 	public String descriptionStats() {
 		
-		String str = "";
+		String str = super.descriptionStats();
 		
 		if(cooldown > 0)
 			str += "Cooldown: " + cooldown / 1000  + " seconds\n";

@@ -21,6 +21,7 @@ public class SprayBow extends Weapon {
 		projLifetime = 700;
 		effect = new Poisoned(5000, 100);
 		instability = 20;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

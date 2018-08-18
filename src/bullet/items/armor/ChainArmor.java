@@ -10,6 +10,7 @@ public class ChainArmor extends Armor{
 		
 		defense = 10;
 		speed = -1;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

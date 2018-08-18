@@ -18,8 +18,8 @@ public class DoubleBow extends Weapon{
 		damageRange = 15;
 		
 		projSpeed = 18;
-		
 		dex = 40;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

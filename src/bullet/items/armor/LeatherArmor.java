@@ -10,6 +10,7 @@ public class LeatherArmor extends Armor{
 		
 		defense = 6;
 		speed = 1;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

@@ -16,7 +16,7 @@ public class VoidBow extends Weapon {
 		dex = -500;
 		baseDamage = 50;
 		damageRange = 50;
-		
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

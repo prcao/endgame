@@ -1,6 +1,5 @@
 package bullet.items.consumable;
 
-import bullet.Handler;
 import bullet.gfx.Assets;
 import bullet.mob.Mob;
 import bullet.mob.effect.Strength;

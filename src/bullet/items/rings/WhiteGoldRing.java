@@ -10,6 +10,7 @@ public class WhiteGoldRing extends Ring {
 		super(Assets.whiteGoldRing);
 		
 		attack = 10;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

@@ -19,7 +19,7 @@ public abstract class Item {
 
 		ttip = new ToolTip(this);
 		
-		descriptionStats = descriptionStats();
+		
 	}
 
 	public BufferedImage getItemTexture(){

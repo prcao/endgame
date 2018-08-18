@@ -11,6 +11,7 @@ public class WhiteGoldArmor extends Armor{
 		super(Assets.whiteGoldArmor);
 		defense = 9999;
 		hp = 9999;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

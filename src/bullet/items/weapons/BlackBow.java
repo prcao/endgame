@@ -14,6 +14,7 @@ public class BlackBow extends Weapon{
 		projLifetime = 105;
 		defense = -10;
 		dex = -40;
+		descriptionStats = descriptionStats();
 	}
 
 	@Override

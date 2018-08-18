@@ -14,6 +14,7 @@ public class BasicBow extends Weapon{
 		damageRange = 10;
 		projSpeed = Projectile.DEFAULT_SPEED;
 		projLifetime = 600;
+		descriptionStats = descriptionStats();
 		
 	}
 

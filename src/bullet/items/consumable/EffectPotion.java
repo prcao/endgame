@@ -18,6 +18,7 @@ public abstract class EffectPotion extends Item implements Consumable{
 		this.effect = effect;
 		this.duration = duration;
 		this.potency = potency;
+		descriptionStats = descriptionStats();
 	}
 	
 	@Override
