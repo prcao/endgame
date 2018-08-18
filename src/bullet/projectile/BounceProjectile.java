@@ -1,6 +1,5 @@
 package bullet.projectile;
 
-import java.awt.Point;
 import java.awt.Rectangle;
 import java.awt.Shape;
 import java.awt.geom.Point2D;
@@ -9,7 +8,6 @@ import java.awt.image.BufferedImage;
 
 import bullet.Handler;
 import bullet.mob.Mob;
-import bullet.mob.enemy.Enemy;
 import bullet.world.Tile;
 
 public class BounceProjectile extends Projectile{

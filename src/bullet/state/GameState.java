@@ -3,17 +3,15 @@ package bullet.state;
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Point;
-import java.awt.image.BufferedImage;
 
 import bullet.Handler;
-import bullet.mob.enemy.boss.StatueMinion;
 import bullet.mob.player.Player;
 import bullet.world.BossRoomMap;
 import bullet.world.Level1;
 import bullet.world.Map;
 import bullet.world.MapGenerator;
-import bullet.world.Tile;
 import bullet.world.MapGenerator.MapAndStairPoint;
+import bullet.world.Tile;
 
 public class GameState extends State{
 

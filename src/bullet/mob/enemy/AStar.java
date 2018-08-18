@@ -2,7 +2,6 @@ package bullet.mob.enemy;
 
 import java.util.ArrayList;
 
-import bullet.Handler;
 import bullet.world.Tile;
 
 public class AStar {

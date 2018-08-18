@@ -1,8 +1,6 @@
 package bullet.items.weapons;
 
-import bullet.Handler;
 import bullet.gfx.Assets;
-import bullet.mob.effect.Regeneration;
 import bullet.projectile.Projectile;
 
 public class BasicBow extends Weapon{

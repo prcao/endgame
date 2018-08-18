@@ -1,6 +1,5 @@
 package bullet.items.rings;
 
-import bullet.Handler;
 import bullet.gfx.Assets;
 import bullet.items.Ring;
 

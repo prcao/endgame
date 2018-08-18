@@ -5,7 +5,6 @@ import java.awt.Point;
 import java.awt.image.BufferedImage;
 import java.util.Random;
 
-import bullet.Handler;
 import bullet.mob.enemy.boss.StatueMinion;
 import bullet.mob.player.Player;
 

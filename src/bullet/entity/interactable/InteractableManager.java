@@ -2,8 +2,6 @@ package bullet.entity.interactable;
 
 import java.util.ArrayList;
 
-import bullet.Handler;
-
 public class InteractableManager {
 	
 	public ArrayList<Interactable> interactables = new ArrayList<>();

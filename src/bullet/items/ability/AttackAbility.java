@@ -2,8 +2,6 @@ package bullet.items.ability;
 
 import java.awt.image.BufferedImage;
 
-import bullet.Handler;
-
 public abstract class AttackAbility extends Ability{
 
 	protected BufferedImage projTexture;

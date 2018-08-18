@@ -1,6 +1,5 @@
 package bullet.mob.effect;
 
-import bullet.Handler;
 import bullet.gfx.Assets;
 import bullet.mob.Mob;
 

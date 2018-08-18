@@ -2,7 +2,6 @@ package bullet.items.armor;
 
 import java.awt.image.BufferedImage;
 
-import bullet.Handler;
 import bullet.items.Item;
 
 public abstract class Armor extends Item{

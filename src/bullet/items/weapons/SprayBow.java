@@ -6,7 +6,6 @@ import java.util.Random;
 import bullet.Handler;
 import bullet.gfx.Assets;
 import bullet.mob.effect.Poisoned;
-import bullet.mob.effect.Regeneration;
 import bullet.projectile.Projectile;
 
 public class SprayBow extends Weapon {

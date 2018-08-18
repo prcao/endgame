@@ -1,7 +1,5 @@
 package bullet.mob.enemy.boss;
 
-import java.awt.Graphics2D;
-
 import bullet.Handler;
 import bullet.gfx.Animation;
 import bullet.gfx.Assets;

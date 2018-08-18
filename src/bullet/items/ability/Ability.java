@@ -2,7 +2,6 @@ package bullet.items.ability;
 
 import java.awt.image.BufferedImage;
 
-import bullet.Handler;
 import bullet.items.Item;
 
 public abstract class Ability extends Item {

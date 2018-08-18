@@ -1,6 +1,5 @@
 package bullet.items.armor;
 
-import bullet.Handler;
 import bullet.gfx.Assets;
 
 public class ChainArmor extends Armor{

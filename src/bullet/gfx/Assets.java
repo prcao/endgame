@@ -3,9 +3,6 @@ package bullet.gfx;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
-import bullet.gfx.ImageLoader;
-import bullet.gfx.SpriteSheet;
-
 public class Assets {
 private static final int w = 8, h = 8;
 	

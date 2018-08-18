@@ -3,7 +3,6 @@ package bullet.mob.player;
 import java.awt.Color;
 import java.awt.Graphics2D;
 
-import bullet.Handler;
 import bullet.mob.Stats;
 
 public class PlayerStats extends Stats {

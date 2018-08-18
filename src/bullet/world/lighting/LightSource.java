@@ -2,8 +2,6 @@ package bullet.world.lighting;
 
 import java.awt.geom.Point2D;
 
-import bullet.Handler;
-
 public class LightSource {
 
 	protected Point2D.Double pos;

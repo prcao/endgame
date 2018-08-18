@@ -3,7 +3,6 @@ package bullet.projectile;
 import java.awt.Graphics2D;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.ListIterator;
 
 public class ProjectileManager {
 	

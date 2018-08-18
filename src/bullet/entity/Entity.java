@@ -2,10 +2,7 @@ package bullet.entity;
 
 import java.awt.Graphics2D;
 import java.awt.geom.Point2D;
-import java.awt.geom.Point2D.Double;
-import java.util.Comparator;
 
-import bullet.Handler;
 import bullet.world.lighting.LightSource;
 
 public abstract class Entity {

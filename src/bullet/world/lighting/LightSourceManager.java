@@ -1,9 +1,6 @@
 package bullet.world.lighting;
 
-import java.awt.Graphics2D;
 import java.util.ArrayList;
-
-import bullet.Handler;
 
 public class LightSourceManager {
 

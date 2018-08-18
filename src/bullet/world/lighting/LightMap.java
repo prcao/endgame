@@ -1,10 +1,8 @@
 package bullet.world.lighting;
 
 import java.awt.Graphics2D;
-import java.util.ArrayList;
 import java.util.LinkedList;
 
-import bullet.Handler;
 import bullet.mob.player.Player;
 
 public class LightMap {

@@ -2,7 +2,6 @@ package bullet.world;
 
 import java.awt.Point;
 
-import bullet.Handler;
 import bullet.mob.enemy.boss.Statue;
 import bullet.mob.player.Player;
 

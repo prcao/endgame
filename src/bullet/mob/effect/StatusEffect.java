@@ -2,7 +2,6 @@ package bullet.mob.effect;
 
 import java.awt.image.BufferedImage;
 
-import bullet.Handler;
 import bullet.mob.Mob;
 
 public abstract class StatusEffect {

@@ -1,8 +1,5 @@
 package bullet.items.armor;
 
-import java.awt.image.BufferedImage;
-
-import bullet.Handler;
 import bullet.gfx.Assets;
 
 public class WhiteGoldArmor extends Armor{

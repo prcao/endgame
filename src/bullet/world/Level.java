@@ -4,7 +4,6 @@ import java.awt.Point;
 import java.awt.geom.Point2D;
 import java.awt.image.BufferedImage;
 
-import bullet.Handler;
 import bullet.entity.interactable.LevelStairs;
 import bullet.gfx.Assets;
 

@@ -3,9 +3,6 @@ package bullet.mob.enemy;
 import java.awt.geom.Point2D;
 import java.util.ArrayList;
 
-import bullet.Handler;
-import bullet.mob.Mob;
-
 public abstract class Boid{
 
 	public static ArrayList<Boid> boids = new ArrayList<>();

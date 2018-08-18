@@ -3,8 +3,6 @@ package bullet.items;
 import java.awt.image.BufferedImage;
 import java.util.Random;
 
-import bullet.Handler;
-
 public abstract class Item {
 
 	protected ItemType type;
